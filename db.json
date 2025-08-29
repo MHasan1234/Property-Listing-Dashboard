@@ -1,0 +1,58 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "name": "Plot in Pune",
+      "type": "Plot",
+      "price": 250000,
+      "location": "Pune",
+      "description": "A large plot of land available for development in a prime Pune location.",
+      "image": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "name": "Industrial Shed",
+      "type": "Shed",
+      "price": 76000,
+      "location": "Bangalore",
+      "description": "An industrial shed in a prime location, perfect for manufacturing or storage.",
+      "image": "https://images.pexels.com/photos/3935320/pexels-photo-3935320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "name": "Retail Store Front",
+      "type": "Retail Store",
+      "price": 150000,
+      "location": "Hyderabad",
+      "description": "A commercial mall space in the city center with high foot traffic.",
+      "image": "https://images.pexels.com/photos/210617/pexels-photo-210617.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "name": "Spacious Plot",
+      "type": "Plot",
+      "price": 300000,
+      "location": "Chennai",
+      "description": "A spacious plot situated in a serene and developing area of Chennai.",
+      "image": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 5,
+      "name": "Jaipur Land Parcel",
+      "type": "Plot",
+      "price": 160000,
+      "location": "Jaipur",
+      "description": "A large plot of land available for development on the outskirts of Jaipur.",
+      "image": "https://images.pexels.com/photos/16140510/pexels-photo-16140510/free-photo-of-a-traditional-indian-building-in-jaipur.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 6,
+      "name": "Kolkata Commercial",
+      "type": "Retail Store",
+      "price": 175000,
+      "location": "Kolkata",
+      "description": "A commercial edifice in the bustling city center of Kolkata.",
+      "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+}
