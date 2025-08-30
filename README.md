@@ -1,4 +1,5 @@
 Mini Property Listing Dashboard
+
 This project is a dynamic frontend application built with React and Vite as part of a skills assessment. It features a dashboard to display, filter, and manage property listings, backed by a mock API using json-server.
 
 Features
